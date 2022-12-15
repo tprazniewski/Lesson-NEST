@@ -9,7 +9,7 @@ export class LessonType {
   name: string;
 
   @Field()
-  stareDate: string;
+  startDate: string;
 
   @Field()
   endDate: string;
